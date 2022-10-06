@@ -1,0 +1,49 @@
+/* * {
+    background-image: url('Background\ Medium.jpg');
+} */
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+.container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+}
+
+img {
+    margin: 15px;
+    padding-bottom: 50px;
+    align-items: center;
+}
+
+.background {
+    background-color: black;
+    margin: 15px;
+    height: 310px;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    margin: 0 auto;
+}
+
+button {
+    cursor: pointer;
+    align-items: center;
+}
+
