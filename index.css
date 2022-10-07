@@ -1,9 +1,9 @@
-/* * {
-    background-image: url('Background\ Medium.jpg');
-} */
+body {
+    background-image: url('background.jpg');
+}
 
 h1 {
-    color: black;
+    color: white;
     text-align: center;
 }
 
@@ -45,5 +45,16 @@ h3 {
 button {
     cursor: pointer;
     align-items: center;
+}
+
+
+.alicent-bio {
+    color: black;
+    position: center;
+    justify-content: center;
+}
+
+.hidden {
+    display: none;
 }
 
